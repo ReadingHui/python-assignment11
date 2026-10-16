@@ -1,0 +1,11 @@
+Reflect on the differences between static and interactive visualizations.
+
+Static visualizations are mostly for analyzing the whole picture of the dataset, we can see the patterns and present them to others. Interactive visualizations are mostly for EDA stage, where we don't really know what to look for, then we can interactively look at different subset or even individual data point, to analyze the dataset.
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+
+Dashboards are visual and interactive, it allows a much more flexible way of looking at the data. Instead of having to modify the code every single time, we can interact with the dataset in a webapp and observe patterns before we actually code the way to print or save them.
+
+Explain how interactive tools like Plotly can improve data communication in professional settings.
+
+Plotly provides an interactive way of communicating with other stakeholders. Sometimes some stakeholders may want to know more about the data we presented in ways that we didn't prepare. Without Plotly or other interactive tools, it is kind of difficult to generate what the stakeholders want during a real-time presentation or communication. With these tools, we can quickly generate some insight in real-time without having to go through all the coding trouble, improving the efficiency and effectiveness of the communication.
